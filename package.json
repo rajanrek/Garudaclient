@@ -56,7 +56,7 @@
     "leaflet-omnivore": "^0.3.4",
     "leaflet-side-by-side": "^2.1.0",
     "leaflet.sync": "^0.2.4",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "mutationobserver-shim": "^0.3.2",
     "ng2-charts": "^1.6.0",
     "ngx-bootstrap": "^3.0.1",
